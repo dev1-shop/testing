@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap:  http://mail.stem.edu.pk/sitemap.xml
